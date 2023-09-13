@@ -1,3 +1,3 @@
 # Explainable-AI
 
-<h1>Model Explainablity using SHAP</h1>
+<h3>Model Explainablity using SHAP</h3>
